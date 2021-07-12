@@ -1,5 +1,5 @@
 [package]
-name = "pc-beeper"
+name = "pc_beeper"
 version = "0.1.0"
 authors = ["DEADBLACKCLOVER <deadblackclover@protonmail.com>"]
 description = "The most primitive audio device available on PC-compatible systems with characteristic 'beeps' and 'squeaks'"
